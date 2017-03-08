@@ -23,6 +23,7 @@ module.exports = (grunt) ->
             'src/utils.coffee'
             'src/queue.coffee'
             'src/core.coffee'
+            'src/error.coffee'
             'src/data.coffee'
             'src/rivets.coffee'
             'src/export.coffee'
